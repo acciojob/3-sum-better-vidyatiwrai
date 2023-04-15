@@ -1,8 +1,8 @@
 // function threeSum(arr, target) {
 // write your code here
-  function sum_three(nums)
+  function sum_three(arr)
 {
-  return nums[0] + nums[1] + nums[2];
+  return arr[0] + arr[1] + arr[2];
 }
 
 // console.log(sum_three([10, 32, 20]));  
