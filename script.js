@@ -1,6 +1,6 @@
 // function threeSum(arr, target) {
 // write your code here
-  function sum_three(arr)
+  function threeSum(arr)
 {
   return arr[0] + arr[1] + arr[2];
 }
